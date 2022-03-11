@@ -6,4 +6,4 @@ CSSフレームワークなし
 
 https://dualxeon51.github.io/nuxt/
 
-nuxtconfig/(workflow) 修正
+nuxtconfig/readmeのリンク/(workflow)を修正してから使いましょう
